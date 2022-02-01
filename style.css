@@ -30,7 +30,7 @@ body {
   max-width: 32rem;
   padding: 2rem 2rem;
   background: var(--color-white);
-  height: 77vh;
+  max-height: 77vh;
   border-radius: 2rem;
 }
 
