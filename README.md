@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-mobile-first-workflow-u0TPDnKfJ](https://your-solution-url.com)
+- Live Site URL: [https://sanketcharanpahadi.github.io/qr-code-component/](https://your-live-site-url.com)
 
 ## My process
 
@@ -36,5 +36,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@sanketcharanpahadi](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
